@@ -23,5 +23,6 @@ c)	可拓展：预留的指令编码空间可以后期拓展到更多指令
 
 6.	全部通过测试
 
+文档： https://www.yuque.com/docs/share/aacb1cec-74ac-4da2-93cb-69940e48b2b0?# 《系统硬件综合设计实验报告》
 
 
